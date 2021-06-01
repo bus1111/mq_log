@@ -1,0 +1,5 @@
+user admin
+topic $SYS/#
+
+user vakio_user_1
+topic 1/+/+
